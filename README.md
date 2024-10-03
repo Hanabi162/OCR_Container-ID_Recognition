@@ -16,6 +16,3 @@ This project is a foundational implementation for recognizing container IDs usin
 
 ## Customization
 This project serves as a base for further development. Feel free to modify, extend, or integrate this code into your applications to improve accuracy or adapt it to different scenarios. Contributions and improvements are welcome!
-
-## License
-This project is open-source; you can use, modify, and distribute it under the terms specified in the LICENSE file.
